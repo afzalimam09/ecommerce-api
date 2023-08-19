@@ -1,4 +1,4 @@
-# Product Category API
+# Ecommerce API
 
 This is a RESTful API built with Node, Express and MongoDB to Manage an Ecommerce Application.
 
